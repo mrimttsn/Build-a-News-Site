@@ -326,7 +326,7 @@
    }
 
    header {
-     padding-bottom: 5px;
+     padding: 5px;
    }
 
    #artguidesthlm {
@@ -353,7 +353,7 @@
    }
 
    .main {
-     width: 80%;
+     width: 90%;
      display: flex;
      flex-direction: column;
      text-align: center;
