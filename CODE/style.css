@@ -326,7 +326,7 @@
    }
 
    header {
-     padding: 5px;
+     padding: 5px 0;
    }
 
    #artguidesthlm {
@@ -391,11 +391,11 @@
    }
 
    .second {
-     width: 80%;
+     width: 90%;
      display: grid;
      grid-template: auto;
      gap: 20px;
-     margin: 4% auto 4% auto;
+     margin: 4% auto;
      line-height: 1.5;
    }
 
