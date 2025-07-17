@@ -391,6 +391,7 @@
    }
 
    .second {
+     max-width: 90% 
      width: 90%;
      display: grid;
      grid-template: auto;
