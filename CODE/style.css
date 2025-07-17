@@ -391,8 +391,8 @@
    }
 
    .second {
-     max-width: 90%; 
-     width: 90%;
+     max-width: 95%; 
+     width: 95%;
      display: grid;
      grid-template: auto;
      gap: 20px;
@@ -415,7 +415,6 @@
    }
 
    #Reviews {
-     padding-top: 10px;
      grid-row: 2;
    }
 
@@ -423,7 +422,7 @@
      display: grid;
      grid-template-columns: 1fr 1fr;
      align-items: center;
-     width: 75%;
+     width: 85%;
      margin: 0 auto;
    }
 
