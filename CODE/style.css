@@ -397,7 +397,8 @@
      gap: 20px;
      margin: 4% auto;
      line-height: 1.5;
-     align-content: center;
+     word-break: break-word;
+     overflow-wrap: break-word;
    }
 
    #Upcoming {
