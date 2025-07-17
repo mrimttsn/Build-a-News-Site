@@ -391,7 +391,7 @@
    }
 
    .second {
-     max-width: 90% 
+     max-width: 90%; 
      width: 90%;
      display: grid;
      grid-template: auto;
@@ -402,24 +402,20 @@
      overflow-wrap: break-word;
    }
 
-   #Upcoming {
+   #Upcoming,
+   #Reviews {
      background-color: rgba(176, 47, 0, 0.314);
      border-radius: 8px;
      padding: 1px 15px;
-   }
-
-   .title-long {
-     white-space: nowrap;
-     overflow: hidden;
-     text-overflow: ellipsis;
-     max-width: 70%;
+     word-break: break-word;
+     overflow-wrap: break-word;
+     white-space: normal;
+     width: 100%;
+     box-sizing: border-box;
    }
 
    #Reviews {
      padding-top: 10px;
-     background-color: rgba(176, 47, 0, 0.314);
-     border-radius: 8px;
-     padding: 1px 15px;
      grid-row: 2;
    }
 
