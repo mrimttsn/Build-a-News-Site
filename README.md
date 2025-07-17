@@ -23,7 +23,7 @@ After deploying the project, I noticed that some elements didn't behave as I wan
 
 ---
 
-If I hade more time, I would include a map of Stockholm so it's possible to get an overview of different locations in the city. I began to include that, found the write code etc to add it but decided not to include it as I didn't find a good spot to place it on the website. With more time, I would like included that. I would also make some adjustments for wider screens than 1600px.
+If I had more time, I would include a map of Stockholm so it's possible to get an overview of different locations in the city. I began to include that, found the write code etc to add it but decided not to include it as I didn't find a good spot to place it on the website. With more time, I would like included that. I would also make some adjustments for wider screens than 1600px.
 
 ---
 
