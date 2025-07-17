@@ -15,11 +15,11 @@ As a part of the web bootcamp at Technigo, the project brief was to create a new
 
 I decided to make a news site for art exhibitions in Stockholm. 
 At first I made a sketch on paper to decide what the website should include and the layout.
-After that I began to explore how the visual identity of the site should be. I decide to go for a quiet clean, yet fun aesthetic.
+After that I began to explore how the visual identity of the site should be. I decide to go for a clean yet fun aesthetic.
 To help myself while coding for different devices, I made each media query into a different colour scheme, which I ended up liking and keeping.
-I used the reference library at W3schools for HTML and CSS, as well as search online if I didn't find what I needed. When the websites felt ready enough, I decided to get ai-codefeedback to further improve my code, which resulted in minor tweaks, no major changes. It was good to get some feedback on how to simplify and shorten the code, like if several containers have the same rules I can write it in one section rather than several.
-
-After deploying the project, I noticed that some elements didn't behave as I wanted for mobile devices. I forgot to had rules that would break and wrap the text. With some trials, errors and ai-feedback I managed to change it.
+I used the reference library at W3schools for HTML and CSS, as well as searched online if needed. 
+When the websites felt ready enough, I decided to get ai-codefeedback to further improve my code, which resulted in minor tweaks, no major changes. It was however good to get some feedback on how to simplify and shorten the code, like if several containers have the same rules I can write it in one section rather than several.
+After deploying the project, I noticed that some elements didn't behave as I wanted for mobile devices. I forgot to add rules that would break and wrap texts in those containers. With some trials, errors and ai-feedback I managed to change it.
 
 ---
 
