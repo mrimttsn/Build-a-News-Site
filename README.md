@@ -19,7 +19,7 @@ After that I began to explore how the visual identity of the site should be. I d
 To help myself while coding for different devices, I made each media query into a different colour scheme, which I ended up liking and keeping.
 I used the reference library at W3schools for HTML and CSS, as well as searched online if needed. 
 When the websites felt ready enough, I decided to get ai-codefeedback to further improve my code, which resulted in minor tweaks, no major changes. It was however good to get some feedback on how to simplify and shorten the code, like if several containers have the same rules I can write it in one section rather than several.
-After deploying the project, I noticed that some elements didn't behave as I wanted for mobile devices. I forgot to add rules that would break and wrap texts in those containers. With some trials, errors and ai-feedback I managed to change it.
+After deploying the project, I noticed that some elements didn't behave as I wanted for mobile devices. I forgot to add rules that would break and wrap texts in those containers. With some trials and errors I managed to change it.
 
 ---
 
